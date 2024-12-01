@@ -36,6 +36,34 @@ You have the right to:
 - Clear local app data through your device settings
 - Contact us with any privacy concerns
 
+## GDPR Rights for EU Users
+As a user in the European Union, you have the following rights:
+- Right to access your data
+- Right to delete your data
+- Right to object to data processing
+- Right to data portability
+
+## Data Collection & Advertising
+We use Google AdMob for advertising which may collect:
+- Device information
+- Usage data
+- Advertising IDs
+
+You can opt out of personalized advertising through your device settings.
+
+## Data Storage
+- All personal data (achievements, mood tracking, journal entries) is stored locally on your device
+- We do not transfer or store your personal data on external servers
+- AdMob may collect data according to Google's Privacy Policy  
+
+## Data Deletion
+To delete your data:
+1. All app data is stored locally on your device
+2. You can clear all data by:
+   - Uninstalling the app
+   - Using your device's "Clear App Data" function
+3. For advertising data collected by AdMob, visit Google's Privacy Settings
+
 ## Changes to This Policy
 We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
 
