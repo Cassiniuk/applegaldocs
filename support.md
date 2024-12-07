@@ -52,7 +52,7 @@
     <div class="section">
         <h2>Contact Us</h2>
         <p>If you need additional support or have questions not covered in the FAQ, please contact us at:</p>
-        <a href="mailto:your-email@example.com" class="contact-button">Contact Support</a>
+        <a href="mailto:monospheredev@gmail.com" class="contact-button">Contact Support</a>
     </div>
 
     <div class="section">
