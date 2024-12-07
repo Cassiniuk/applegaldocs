@@ -1,4 +1,4 @@
-# Terms of Service for Random Acts of Kindness App
+# Terms of Service for One Kind Thing App
 
 Last Updated: 1st December 2024
 
