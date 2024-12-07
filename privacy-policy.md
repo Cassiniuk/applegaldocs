@@ -1,4 +1,4 @@
-# Privacy Policy for Random Acts of Kindness App
+# Privacy Policy for One Kind Thing App
 
 Last Updated: 1st December 2024
 
